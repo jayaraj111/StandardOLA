@@ -1396,7 +1396,7 @@ text-decoration:underline;
 }
 @media (max-width:480px){
 	.banner {
-		min-height: 359px;
+		min-height: 259px;
 	}
 	.sb-search.sb-search-open, .no-js .sb-search {
 		width: 48%;
